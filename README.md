@@ -1,6 +1,8 @@
 # Jo The Fighter
 Jo The Fighter is a 2D street fighter game developed using the Unity game engine.
 
+![alt text](https://github.com/agrawal-sru/JoTheFighter/blob/main/fighter_jo.jpg?raw=true)
+
 ## Installation
 To play, download the 'Jo The Fighter Player' folder and run the .exe file. 
 
